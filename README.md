@@ -1,0 +1,2 @@
+# selaluada.js
+selaluada
